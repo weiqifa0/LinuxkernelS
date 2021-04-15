@@ -22,6 +22,11 @@ https://blog.csdn.net/kris_fei/category_7110058.html
 
 # # Android && Linux 相关
 
+学习Android系统源码，需要掌握系统源码目录。
+可以访问 http://androidxref.com 来阅读系统源码，当然，最好是将源码下载下来。
+
+这里我推荐使用百度网盘地址 http://pan.baidu.com/s/1ngsZs 进行下载，目前其中提供了Android 1.6到Android 8.1.0多个Android版本的源码。
+
 ##  Audio相关
 
 https://blog.csdn.net/kris_fei/category_6987006_2.html
