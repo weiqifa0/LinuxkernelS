@@ -20,11 +20,12 @@ https://www.bilibili.com/video/BV1CK4y1j7TZ/?spm_id_from=autoNext
 https://blog.csdn.net/kris_fei/category_7110058.html
 
 
-# # Android 相关
+# # Android && Linux 相关
 
-## Andrid Audio相关
+##  Audio相关
 
 https://blog.csdn.net/kris_fei/category_6987006_2.html
+https://blog.csdn.net/DroidPhone/category_1118446.html
 
 ## Android Camera相关
 
